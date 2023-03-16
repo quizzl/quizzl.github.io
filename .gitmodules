@@ -1,0 +1,3 @@
+[submodule "fur-graphsearch"]
+	path = fur-graphsearch
+	url = git@github.com:quizzl/fur-graphsearch.git
