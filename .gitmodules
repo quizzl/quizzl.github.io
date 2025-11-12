@@ -1,3 +1,6 @@
 [submodule "fur-graphsearch"]
 	path = fur-graphsearch
 	url = https://github.com/quizzl/fur-graphsearch
+[submodule "e6er"]
+	path = e6er
+	url = git@github.com:quizzl/e6er.git
